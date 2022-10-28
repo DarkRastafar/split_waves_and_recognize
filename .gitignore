@@ -1,0 +1,4 @@
+/trained_models/client_operator_model/
+.idea
+venv
+__pycache__
